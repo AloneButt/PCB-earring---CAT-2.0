@@ -1,0 +1,27 @@
+# KiCad project files to ignore
+
+# Automatic backup files
+*.bak
+*.bck
+*.tmp
+*.swp
+
+# User-specific settings
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Exported fabrication data
+*.gbr
+*.drl
+*.zip
+*.tar.gz
+
+# Simulation and cache
+*.spice
+sym-lib-table-backup
+fp-lib-table-backup
+
+# OS-generated files
+.DS_Store
+Thumbs.db
