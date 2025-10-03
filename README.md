@@ -50,4 +50,4 @@ Because sometimes the best gifts are the ones you solder yourself ❤️
 ---
 
 ## 📸 Preview
-![3D-View](Images/3D-view.PNG)
+![3D-View](Images/3D-view.png)
