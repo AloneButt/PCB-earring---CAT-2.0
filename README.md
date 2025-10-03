@@ -50,4 +50,4 @@ Because sometimes the best gifts are the ones you solder yourself ❤️
 ---
 
 ## 📸 Preview
-*(add a cute render or picture once boards arrive)*
+![3D View](Images/3D-view.PNG)
