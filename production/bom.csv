@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BATTERY holder CR2032 SMD,1,Battery_Cell,
+"C1, C2",0805,2,C_Polarized,
+"D1, D2",1206,2,LED,
+"Q1, Q2",SOT-89-3,2,2N3904U,
+"R1, R4",0805,2,470R,
+"R2, R3",0805,2,47kR,
+SW1,DIP switch 1P THT,1,SW_SPST,
