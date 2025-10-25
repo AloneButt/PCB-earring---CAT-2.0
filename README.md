@@ -5,6 +5,8 @@ Each earring is powered by a CR2032 coin cell and blinks two LEDs in an alternat
 
 It’s a mix of **electronics + wearable art**, made as a gift 💝.
 
+Shoutout to the **PCBWay** for sponsoring this project 🥳🙌🥂🎆🥳
+
 ---
 
 ## ✨ Features
@@ -50,4 +52,12 @@ Because sometimes the best gifts are the ones you solder yourself ❤️
 ---
 
 ## 📸 Preview
+
+## 3D
 ![3D-View](Images/3D-view.png)
+
+## Fabricated by PCBWay
+![Fab](Images/PCBway1.jpg)
+![Fab](Images/PCBway2.jpg)
+
+Additional pictures can be viewed in the 'Images'
