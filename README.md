@@ -7,6 +7,19 @@ It’s a mix of **electronics + wearable art**, made as a gift 💝.
 
 Shoutout to the **PCBWay** for sponsoring this project 🥳🙌🥂🎆🥳
 
+<p align="center">
+  <a href="https://www.pcbway.com/?from=github" target="_blank">
+    <img src="https://www.pcbway.com/project/img/images/frompcbway.png" width="300" alt="PCBWay Logo">
+  </a>
+</p>
+
+<p align="center">
+  This project was proudly prototyped with support from
+  <a href="https://www.pcbway.com/?from=github"><b>PCBWay</b></a>.<br>
+  Their precision manufacturing, excellent finish quality, and quick lead times made this build possible.
+</p>
+
+
 ---
 
 ## ✨ Features
