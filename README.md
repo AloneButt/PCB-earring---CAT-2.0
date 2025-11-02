@@ -7,17 +7,22 @@ It’s a mix of **electronics + wearable art**, made as a gift 💝.
 
 ## 🥂 Shoutout to the sponsor of the project
 
-<p align="center">
-  <a href="https://www.pcbway.com/?from=github" target="_blank">
-    <img src="https://www.pcbway.com/project/img/images/frompcbway.png" width="300" alt="PCBWay Logo">
-  </a>
-</p>
+[![PCBWay Logo](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/?from=github)
 
-<p align="center">
-  This project was proudly prototyped with support from
-  <a href="https://www.pcbway.com/?from=github"><b>PCBWay</b></a>.<br>
-  Their precision manufacturing, excellent finish quality, and quick lead times made this build possible.
-</p>
+This project was proudly prototyped with support from **[PCBWay](https://www.pcbway.com/?from=github)**.  
+Their professional fabrication, precise assembly, and fast delivery made prototyping smooth and reliable.  
+
+### 🔧 About PCBWay
+
+**PCBWay** offers a full range of electronics manufacturing services, including:  
+- **PCB fabrication** (1–32 layers, HDI, flex, and rigid-flex boards)  
+- **SMT & through-hole assembly** with component sourcing and inspection  
+- **CNC machining** and **3D printing** for custom enclosures and parts  
+- **Stencil production**, **flex cables**, and **rapid prototyping** for quick iteration  
+
+Their combination of advanced manufacturing, strict quality control, and responsive support makes them a trusted partner for both prototyping and production runs.  
+Check them out at [pcbway.com](https://www.pcbway.com/?from=github).
+
 
 
 ---
